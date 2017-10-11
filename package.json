@@ -1,0 +1,22 @@
+{
+  "name": "psg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karon45/psg.git"
+  },
+  "author": "Koteczki Áron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karon45/psg/issues"
+  },
+  "homepage": "https://github.com/karon45/psg#readme",
+  "dependencies": {
+    "electron": "^1.7.9"
+  }
+}
